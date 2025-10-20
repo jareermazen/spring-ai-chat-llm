@@ -1,0 +1,5 @@
+com/example/jareerai/dto/ChatRequest.class
+com/example/jareerai/config/AiConfig.class
+com/example/jareerai/JareerAiApplication.class
+com/example/jareerai/controller/ChatController.class
+com/example/jareerai/service/ChatService.class

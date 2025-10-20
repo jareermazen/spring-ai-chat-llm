@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: jareer-ai
+    name: spring-ai-chat-llm
 
   ai:
     openai:

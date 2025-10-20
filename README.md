@@ -1,4 +1,4 @@
-# Jareer-AI
+# spring-ai-chat-llm
 
 A lightweight Spring Boot service that exposes a simple Chat endpoint powered by Spring AI and an OpenAI-compatible provider (default configured for Groq). It accepts a prompt and returns a generated response.
 
@@ -53,7 +53,7 @@ mvn clean package
 ```
 Run the jar:
 ```
-java -jar target/jareer-ai-0.0.1-SNAPSHOT.jar
+java -jar target/spring-ai-chat-llm-0.0.1-SNAPSHOT.jar
 ```
 
 The application starts on `http://localhost:8082` by default.
@@ -91,7 +91,7 @@ Once the app is running, open:
 
 ## Project Structure (high level)
 ```
-Jareer-AI/
+spring-ai-chat-llm/
 ├─ src/
 │  ├─ main/java/com/example/jareerai/
 │  │  ├─ JareerAiApplication.java     # Spring Boot entry point

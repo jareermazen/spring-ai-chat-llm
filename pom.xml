@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>jareer-ai</artifactId>
+    <artifactId>spring-ai-chat-llm</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Jareer-AI</name>
+    <name>spring-ai-chat-llm</name>
     <description>Spring AI ChatGPT-like controller</description>
 
     <parent>
