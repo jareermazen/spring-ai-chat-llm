@@ -1,4 +1,4 @@
-package com.example.jareerai.dto;
+package com.seera.test.dto;
 
 import groovy.transform.ToString;
 import jakarta.validation.constraints.NotBlank;

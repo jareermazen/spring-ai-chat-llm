@@ -1,7 +1,7 @@
-package com.example.jareerai.controller;
+package com.seera.test.controller;
 
-import com.example.jareerai.dto.ChatRequest;
-import com.example.jareerai.service.ChatService;
+import com.seera.test.dto.ChatRequest;
+import com.seera.test.service.ChatService;
 import jakarta.validation.Valid;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

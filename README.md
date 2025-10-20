@@ -93,14 +93,14 @@ Once the app is running, open:
 ```
 spring-ai-chat-llm/
 ├─ src/
-│  ├─ main/java/com/example/jareerai/
-│  │  ├─ JareerAiApplication.java     # Spring Boot entry point
-│  │  ├─ config/AiConfig.java         # AI-related configuration
-│  │  ├─ controller/ChatController.java# REST controller exposing /chat
-│  │  ├─ service/ChatService.java     # Service calling the AI client
-│  │  └─ dto/ChatRequest.java         # DTO with the prompt field
-│  └─ main/resources/application.yml  # App configuration (port, AI settings)
-├─ pom.xml                            # Maven configuration
+│  ├─ main/java/com/example/springaichatllm/
+│  │  ├─ SpringAiChatLlmApplication.java # Spring Boot entry point
+│  │  ├─ config/AiConfig.java            # AI-related configuration
+│  │  ├─ controller/ChatController.java  # REST controller exposing /chat
+│  │  ├─ service/ChatService.java        # Service calling the AI client
+│  │  └─ dto/ChatRequest.java            # DTO with the prompt field
+│  └─ main/resources/application.yml     # App configuration (port, AI settings)
+├─ pom.xml                               # Maven configuration
 └─ .gitignore
 ```
 

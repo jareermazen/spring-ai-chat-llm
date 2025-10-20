@@ -1,4 +1,4 @@
-package com.example.jareerai.service;
+package com.seera.test.service;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;

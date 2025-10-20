@@ -1,4 +1,4 @@
-package com.example.jareerai.config;
+package com.seera.test.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.context.annotation.Bean;

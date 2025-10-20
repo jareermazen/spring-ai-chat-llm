@@ -1,11 +1,11 @@
-package com.example.jareerai;
+package com.seera.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JareerAiApplication {
+public class ChatLlmApplication {
     public static void main(String[] args) {
-        SpringApplication.run(JareerAiApplication.class, args);
+        SpringApplication.run(ChatLlmApplication.class, args);
     }
 }
